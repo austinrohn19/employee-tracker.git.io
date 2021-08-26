@@ -5,7 +5,7 @@
   "main": "em-track.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "Node em-track.js"
+    "start": "Node server.js"
   },
   "repository": {
     "type": "git",
